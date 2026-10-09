@@ -1,11 +1,11 @@
 # My First Repository - Project Section 
-This is my first repository! I am going to be making a file describing one of the projects I've done at the University of Iowa. 
+This is my **first** repository! I am going to be making a file describing one of the projects I've done at the University of Iowa. 
 
 ## Table of Contents
 
 - [PROJECT TITLE](#Predicting-Spotify-Popularity-Scores)
 - [DESCRIPTION](#Description)
-- [TOOLS USED](#Tools-Used)
+- [TOOLS USED IN PROJECT](#Tools-Used-In-Project)
 - [FILES USED](#Files-Used)
 
 ## Project Title 
@@ -22,11 +22,14 @@ We decided to run multiple analysis which I was in charge of. We ran an ANOVA te
 
 We concluded our project with our findings from the previous analysis and final regression to create our understanding of what it all meant. We made a presentation in PowerPoint, explaining how all the variables interacted with one another and how they come together to be significant predictors of songs popularity scores on Spotify. Throughout this project I learned many valuable technical and soft skills that I will continue to grow as I move forward in my education and career. It helped me better understand the different analytical perspectives that need to be taken to result in good and meaningful research. 
 
-## Tools Used 
+## Tools Used In Project
 
-In this project, we used Microsoft Excel to analyze our dataset. Within Excel we performed analysis with the Data Analysis ToolPaK download. We used a correlation matrix, ANOVA test, backward stepwise regression, and created residual visualizations throughout our project. 
+In this project, we used **Microsoft Excel** to analyze our dataset. Within Excel we performed analysis with the *Data Analysis ToolPaK* download. We used a correlation matrix, ANOVA test, backward stepwise regression, and created residual visualizations throughout our project. 
 
 ## Files Used 
 
-- We did use a datafile for our project, this was a dataset found on Kaggle surrounding the popularity scores of songs on Spotify. This is the file attached that is the original titled Spotify Songs.
-- I've also attached the final output of our Excel spreadsheet after all the analysis were performed, this is the copy titled Spotify Songs Copy. 
+- Our initial dataset was found using [Kaggle](https://www.kaggle.com/datasets)
+- We did use a datafile for our project, this was the dataset found on Kaggle surrounding the popularity scores of songs on Spotify. This is the file attached that is the original titled **Spotify Songs**.
+- I've also attached the final output of our Excel spreadsheet after all the analysis were performed, this is the copy titled **Spotify Songs** ***Copy***.
+
+![Image displaying the Tippie College of Business, where I created this project.](https://tippie.uiowa.edu/sites/tippie.uiowa.edu/files/styles/ultrawide__2592_x_1111/public/2022-05/pbb-spring.jpg?h=c673cd1c&itok=u6jRR9N1)
