@@ -10,7 +10,7 @@ This is my first repository! I am going to be making a file describing one of th
 
 ## Project Title 
 
-@@***Predicting Spotify Song Popularity Scores***@@
+@@***Predicting Spotify Song Popularity Scores***
 
 ## Description 
 
