@@ -28,4 +28,5 @@ In this project, we used Microsoft Excel to analyze our dataset. Within Excel we
 
 ## Files Used 
 
-- We did use a datafile for our project, this was a dataset found on Kaggle surrounding the popularity scores of songs on Spotify.
+- We did use a datafile for our project, this was a dataset found on Kaggle surrounding the popularity scores of songs on Spotify. This is the file attached that is the original titled Spotify Songs.
+- I've also attached the final output of our Excel spreadsheet after all the analysis were performed, this is the copy titled Spotify Songs Copy. 
